@@ -1,12 +1,15 @@
 # Frontend Mentor - Product preview card component solution
+### Screenshot
+
+![](./screenshot.png)
 
 This is my solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa).
 
 ## Table of contents
+  - [Screenshot](#screenshot)
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -24,10 +27,6 @@ Users should be able to:
 
 - View the optimal layout depending on their device's screen size
 - See hover and focus states for interactive elements
-
-### Screenshot
-
-![](./screenshot.jpg)
 
 ### Links
 
@@ -179,9 +178,7 @@ I used **Claude (Anthropic)** throughout this project as a learning assistant.
 
 - **Debugging**: Asked for help when the image and text panel had unequal heights — learned about `align-items: stretch`
 - **Code review**: Claude reviewed my HTML and CSS multiple times, pointing out issues like duplicate font imports, wrong heading order, and missing fallback fonts
-- **Learning**: Instead of just getting fixes, I asked *why* each change was needed, which helped me understand the concepts deeply
-- **What worked well**: Iterative review — submitting updated code after each fix and getting fresh feedback on what remained
-- **What didn't work**: At first I kept the class name `.section` instead of `.product-info-section` even after being told to fix it — always double-check that HTML class names match CSS selectors!
+
 
 ## Author
 
